@@ -2,7 +2,6 @@ package com.urlShortner.urlShortnerService.Model;
 
 import org.springframework.stereotype.Component;
 
-@Component
 public class UrlErrorResponse {
     String statusCode;
     String errorMessage;
